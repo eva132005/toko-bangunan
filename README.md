@@ -34,6 +34,7 @@ php artisan serve
 Buka di browser:
 
 http://127.0.0.1:8000
+
 3. Konfigurasi Database
 
 Edit file .env:
